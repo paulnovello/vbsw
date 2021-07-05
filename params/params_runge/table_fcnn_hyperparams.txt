@@ -1,0 +1,2 @@
+	n_units	activations	dropout	batch_norm	weights_reg	bias_reg
+1	[32, 32]	['relu', 'sigmoid', 'linear']	None	[0, 0]	[0, 0]	[0, 0]

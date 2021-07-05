@@ -1,0 +1,2 @@
+	n	n_test	n_val	batch_size	loss_function	optimizer	learning_rate	epochs	test_losses	sampler
+1	50000	10000	0	50000	mse	adam	None	80000	['mse', 'sup']	None
