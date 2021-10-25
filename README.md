@@ -4,7 +4,7 @@ This code is associated to the submission of the paper "Variance Based Samples W
 
 ## Requirements
 
-The code has been tested on ubuntu 18, on a computer with a  Nvidia GTX1060 GPU. To run the code, you have to use anaconda to build an environment satisfying all the dependencies. In the root of the source_code folder, use
+The code has been tested on ubuntu 18, on a computer with a  Nvidia GTX1060 GPU. To run the code, you have to use anaconda to build an environment satisfying all the dependencies. In the root of the vbsw folder, use
 
 ~~~shell
 conda env create -f vbsw.yml
